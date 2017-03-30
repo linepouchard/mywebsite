@@ -117,7 +117,7 @@ h1, h2, h3, h4, h5, h6, p, form {
 }
 
 #leftbar h2{
-	font-family:"Calibri";
+	font-family:"Arial";
 	font-size:26px;
 	color:#EE8907;
 	font-weight:normal;
@@ -157,7 +157,7 @@ h1, h2, h3, h4, h5, h6, p, form {
 }
 
 #rightbar h2{
-	font-family:"Calibri";
+	font-family:"Arial";
 	font-size:26px;
 	color:#EE8907;;
 	font-weight:normal;
@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6, p, form {
 }
 
 #disclaimer p{
-	font-family:"Calibri";
+	font-family:"Arial";
 	font-size:11px;
 	color:#FFF;
 	font-style:italic;
