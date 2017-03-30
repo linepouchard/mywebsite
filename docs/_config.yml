@@ -1,1 +1,14 @@
 theme: jekyll-theme-cayman
+# global settings
+title: "Line Pouchard Home Page"
+url: https://linepouchard.github.com
+
+
+# build settings
+markdown: kramdown
+gems:
+  - jekyll-avatar
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-coffeescript
+  - jekyll-sitemap
