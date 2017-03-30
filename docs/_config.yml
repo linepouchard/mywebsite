@@ -2,14 +2,11 @@
 title: "Line Pouchard Home Page"
 url: "https://linepouchard.github.io"
 baseurl: "/profile"
-theme: "jekyll-theme-cayman"
+theme: jekyll-theme-cayman
 repository: "linepouchard/profile"
+locale: "en"
+
 
 # build settings
 markdown: kramdown
-gems:
-  - jekyll-avatar
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-coffeescript
-  - jekyll-sitemap
+
