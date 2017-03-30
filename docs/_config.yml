@@ -3,6 +3,7 @@ title: "Line Pouchard Home Page"
 url: "https://linepouchard.github.io"
 baseurl: "/profile"
 theme: "jekyll-theme-cayman"
+repository: "linepouchard/profile"
 
 # build settings
 markdown: kramdown
